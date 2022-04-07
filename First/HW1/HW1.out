@@ -1,0 +1,6 @@
+\BOOKMARK [1][-]{section.1}{EM算法求解GMM模型参数}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{数据预处理与可视化}{section.1}% 2
+\BOOKMARK [3][-]{subsubsection.1.1.1}{导入数据}{subsection.1.1}% 3
+\BOOKMARK [3][-]{subsubsection.1.1.2}{可视化}{subsection.1.1}% 4
+\BOOKMARK [2][-]{subsection.1.2}{计算}{section.1}% 5
+\BOOKMARK [2][-]{subsection.1.3}{计算与结果可视化}{section.1}% 6
