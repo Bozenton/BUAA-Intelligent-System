@@ -1,0 +1,3 @@
+[submodule "Second/Pytorch-UNet-on-DRIVE"]
+	path = Second/Pytorch-UNet-on-DRIVE
+	url = https://github.com/Bozenton/Pytorch-UNet-on-DRIVE
